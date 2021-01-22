@@ -1,9 +1,10 @@
 
-Committed to ongoing improvement of research software practice through training and community engagement work. 
+### Hi, I am Aleksandra 👋
 
-<!--### Hi there 👋
+I am Training Team Lead at the UK's Software Sutainability Institute committed to ongoing improvement of open and reproducible research software practice through training and community engagement work. 
 
-**anenadic/anenadic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!-- **anenadic/anenadic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
