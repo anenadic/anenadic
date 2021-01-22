@@ -1,7 +1,7 @@
 
 ### Hi, I am Aleksandra 👋
 
-I am the Training Team Lead at the UK's Software Sutainability Institute committed to ongoing improvement of research software practice through training and community engagement work. I am advocating for openness, reproducibility, collaboration and inclusion in STEM and research more broadly. I volunteer in several open communities and serve on the Executive Council of [The Carpentries](https://carpentries.org/), an international community teaching foundational coding and data science skills to researchers worldwide.
+I am the Training Team Lead at the [UK's Software Sutainability Institute](https://www.software.ac.uk/) committed to ongoing improvement of research software practice through training and community engagement work. I am advocating for openness, reproducibility, collaboration and inclusion in research. I volunteer in several open communities and serve on the Executive Council of [The Carpentries](https://carpentries.org/), an international community teaching foundational coding and data science skills to researchers worldwide.
 
 
 <!-- **anenadic/anenadic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
